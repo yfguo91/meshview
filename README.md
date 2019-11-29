@@ -1,4 +1,4 @@
-# meshwork
+# meshview
 a software to generate surface triangular mesh and show triangelar mesh
 usage:
 1.load geometry, import model, choose 5CRANKSHAFT.stl.
